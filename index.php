@@ -11,17 +11,19 @@
 
 
 	<div class="cr-box">
-		<input type="text" name="" class="cr-box-input">
-		<textarea class="cr-box-textarea">
+		<form action="" method="">
+			<input type="text" name="" class="cr-box-input">
+			<textarea class="cr-box-textarea">
 
-		</textarea>
+			</textarea>
 
-		<h2>Encrypted Text</h2>
-		<div class="cr-box-result">
-		</div>	
+			<h2>Encrypted Text</h2>
+			<div class="cr-box-result">
+			</div>	
+		</form>
 	</div>	
 
-  
+    <script type="text/javascript" src="app/js/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="app/js/script.js"></script>
 </body>
 </html>
